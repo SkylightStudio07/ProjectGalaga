@@ -1,0 +1,9 @@
+F:\WK\Galaga\Galaga_assign\obj\Debug\Galaga_assign.csprojAssemblyReference.cache
+F:\WK\Galaga\Galaga_assign\obj\Debug\Galaga_assign.Form1.resources
+F:\WK\Galaga\Galaga_assign\obj\Debug\Galaga_assign.Properties.Resources.resources
+F:\WK\Galaga\Galaga_assign\obj\Debug\Galaga_assign.csproj.GenerateResource.cache
+F:\WK\Galaga\Galaga_assign\bin\Debug\Galaga_assign.exe.config
+F:\WK\Galaga\Galaga_assign\bin\Debug\Galaga_assign.exe
+F:\WK\Galaga\Galaga_assign\bin\Debug\Galaga_assign.pdb
+F:\WK\Galaga\Galaga_assign\obj\Debug\Galaga_assign.exe
+F:\WK\Galaga\Galaga_assign\obj\Debug\Galaga_assign.pdb
