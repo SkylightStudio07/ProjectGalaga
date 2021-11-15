@@ -46,7 +46,7 @@
             // 
             this.Missile.BackColor = System.Drawing.Color.Transparent;
             this.Missile.Image = global::Galaga_assign.Properties.Resources.missile2;
-            this.Missile.Location = new System.Drawing.Point(402, 182);
+            this.Missile.Location = new System.Drawing.Point(186, 419);
             this.Missile.Name = "Missile";
             this.Missile.Size = new System.Drawing.Size(8, 16);
             this.Missile.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -117,6 +117,7 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
+            this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             ((System.ComponentModel.ISupportInitialize)(this.Missile)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.EnemyAircraft2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.EnemyAircraft3)).EndInit();
